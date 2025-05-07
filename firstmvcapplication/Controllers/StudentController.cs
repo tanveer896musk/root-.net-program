@@ -57,11 +57,22 @@ namespace firstmvcapplication.Controllers
         }
 
         // GET: Student/Delete/5
+
+        [HttpGet]
+        public ActionResult Delete(int id,FormCollection formCollection)
+        {
+         var del = dbHelper.GetStudents().Find(s => s.Id == id);
+            return View(del);
+        }
+
+
+        [HttpPost]
         public ActionResult Delete(int id)
         {
             dbHelper.DeleteStudent(id);
             return RedirectToAction("Index");
         }
+
         public ActionResult Details(int id)
         {
             Student student = dbHelper.GetStudents().FirstOrDefault(s => s.Id == id);

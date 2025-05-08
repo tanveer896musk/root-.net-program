@@ -75,12 +75,14 @@ namespace firstmvcapplication.Controllers
 
         public ActionResult Details(int id)
         {
+            var student1 = dbHelper.GetStudents().Find(emp => emp.Id == id);
+           
             Student student = dbHelper.GetStudents().FirstOrDefault(s => s.Id == id);
             if (student == null)
             {
                 return HttpNotFound($"No student found with ID {id}");
             }
-            return View(student);
+            return View(student1);
         }
     }
 

@@ -7,19 +7,31 @@
       "RelativeMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|c:\\tanveer_sayyed\\.net mvc\\firstmvcapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|c:\\tanveer_sayyed\\.net mvc\\firstmvcapplication\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|solutionrelative:logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|c:\\tanveer_sayyed\\.net mvc\\firstmvcapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|c:\\tanveer_sayyed\\.net mvc\\firstmvcapplication\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|solutionrelative:logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|solutionrelative:views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|solutionrelative:views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D39D1A94-8ABB-4B5B-95A2-8A1E2CE81A71}|firstmvcapplication.csproj|solutionrelative:views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,15 +50,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T11:55:15.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T11:54:59.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\Delete.cshtml",
               "ToolTip": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Delete.cshtml",
               "RelativeToolTip": "Views\\Student\\Delete.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T05:44:41.971Z",
+              "WhenOpened": "2025-05-07T11:54:35.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T11:53:53.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T11:15:38.045Z",
               "EditorCaption": ""
             },
             {
@@ -57,49 +117,33 @@
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T04:57:40.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T04:57:40.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T04:51:28.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
               "ToolTip": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T04:51:05.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T04:51:05.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "logic.cs",
               "DocumentMoniker": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\logic.cs",
               "RelativeDocumentMoniker": "logic.cs",
               "ToolTip": "C:\\tanveer_sayyed\\.NET MVC\\firstmvcapplication\\logic.cs",
               "RelativeToolTip": "logic.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAtwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T04:50:44.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T04:50:44.413Z"
             }
           ]
         }

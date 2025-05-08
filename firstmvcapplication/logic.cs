@@ -27,6 +27,7 @@ namespace firstmvcapplication.Models
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@name", student.Name);
                 cmd.Parameters.AddWithValue("@Age", student.Age);
+                cmd.Parameters.AddWithValue("@Addmissiondate", student.Addmissiondate);
                 cmd.ExecuteNonQuery();
                 conn.Close();
             }
@@ -54,7 +55,8 @@ namespace firstmvcapplication.Models
                     {
                         Id = Convert.ToInt32(reader["Id"]),
                         Name = reader["Name"].ToString(),
-                        Age = Convert.ToInt32(reader["Age"])
+                        Age = Convert.ToInt32(reader["Age"]),
+                        Addmissiondate = reader.GetDateTime(reader.GetOrdinal("Addmissiondate"))
                     });  
                 }
                 conn.Close();
@@ -79,6 +81,7 @@ namespace firstmvcapplication.Models
                 cmd.Parameters.AddWithValue("@Id", student.Id);
                 cmd.Parameters.AddWithValue("@Name", student.Name);
                 cmd.Parameters.AddWithValue("@Age", student.Age);
+                cmd.Parameters.AddWithValue("@Addmissiondate", student.Addmissiondate);
                 cmd.ExecuteNonQuery();
                 conn.Close();
             }
@@ -118,7 +121,9 @@ namespace firstmvcapplication.Models
                 {
                     Id = reader.GetInt32(reader.GetOrdinal("ID")),
                     Name = reader.GetString(reader.GetOrdinal("Name")),
-                    Age = reader.GetInt32(reader.GetOrdinal("Age"))
+                    Age = reader.GetInt32(reader.GetOrdinal("Age")),
+                    Addmissiondate = reader.GetDateTime(reader.GetOrdinal("Addmissiondate"))
+
                 };
                 students.Add(student);
             }
